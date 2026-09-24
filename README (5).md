@@ -149,7 +149,7 @@ SuperStore-PowerBI/
 
 ## 👩‍💻 Author
 
-**Pradeepa D**
+**Subha S M**
 BCA Student | Aspiring Data Analyst / App Developer
 
 ### Skills Demonstrated
